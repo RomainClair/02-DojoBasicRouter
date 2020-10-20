@@ -4,4 +4,4 @@
      */
 
      $title = "Sample site title";
-    require_once 'html/home.php';
+    require_once __DIR__ . '/../src/view/home.php';

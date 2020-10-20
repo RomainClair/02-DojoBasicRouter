@@ -15,6 +15,6 @@
 <body>
     <header>
         <nav>
-            <?php include 'html/parts/nav.php' ?>
+            <?php include __DIR__ . '/nav.php' ?>
         </nav>
     </header>
